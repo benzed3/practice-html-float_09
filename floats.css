@@ -48,11 +48,14 @@ section {
     clear: both;
     background: #394549;
     width: 100%;
+    padding-bottom: 86px;
 }
 
 #division {
     background: #6ea3da;
     margin: 0 20px 0 20px;
+    padding: 21.75px 0 21.75px 0;
+    margin-top: 21.75px;
 }
 
 aside {
@@ -61,6 +64,8 @@ aside {
     border: white;
     border-style: solid;
     border-width: 1px;
+    margin-left: 50px;
+    padding: 21.75px 0 30px 0;
 }
 
 footer {
