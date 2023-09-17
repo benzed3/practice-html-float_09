@@ -60,6 +60,7 @@ section {
 
 aside {
     background: #a6b747;
+    float: left;
     width: 30%;
     border: white;
     border-style: solid;
