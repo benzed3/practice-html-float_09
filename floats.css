@@ -41,12 +41,13 @@ section {
     float: left;
     width: 33.33%;
     padding: 21.75px;
+    margin-bottom: 20px;
 }
 
 #full {
     clear: both;
     background: #394549;
-    margin-top: 114px;
+    width: 100%;
 }
 
 #division {
