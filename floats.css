@@ -10,10 +10,11 @@
 body {}
 
 header {
-    padding: 20px;
+    padding: 21.75px;
     margin-bottom: 20px;
     color: #333;
-    background: #ccc;
+    background: #FFA500;
+    font-size: 25px;
 }
 
 section {}
