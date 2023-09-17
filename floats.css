@@ -17,18 +17,46 @@ header {
     font-size: 25px;
 }
 
-section {}
+section {
+    font-size: 25px;
+    color: white;
+}
 
-#left {}
+#left {
+    background: #30948D;
+    float: left;
+    width: 33.33%;
+    padding: 21.75px;
+}
 
-#middle {}
+#middle {
+    background: #9E1212;
+    float: left;
+    width: 33.33%;
+    padding: 21.75px;
+}
 
-#right {}
+#right {
+    background: #30948D;
+    float: left;
+    width: 33.33%;
+    padding: 21.75px;
+}
 
-#full {}
+#full {
+    clear: both;
+    background: #394549;
+}
 
-#division {}
+#division {
+    background: #6ea3da;
+}
 
-aside {}
+aside {
+    background: #a6b747;
+}
 
-footer {}
+footer {
+    background: #FFA500;
+    font-size: 25px;
+}
