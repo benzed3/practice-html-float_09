@@ -46,6 +46,7 @@ section {
 #full {
     clear: both;
     background: #394549;
+    margin-top: 114px;
 }
 
 #division {
@@ -54,9 +55,14 @@ section {
 
 aside {
     background: #a6b747;
+    width: 30%;
+    border: white;
+    border-style: solid;
+    border-width: 1px;
 }
 
 footer {
     background: #FFA500;
     font-size: 25px;
+    clear: both;
 }
