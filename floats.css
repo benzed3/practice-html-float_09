@@ -63,12 +63,12 @@ aside {
     background: #a6b747;
     float: left;
     /*floating separated it from the rest of the sections*/
-    width: 30%;
+    width: 33%;
     border: white;
     border-style: solid;
     border-width: 1px;
     margin-left: 50px;
-    padding: 21.75px 0 30px 0;
+    padding: 21.75px 0 145px 0;
 }
 
 footer {
